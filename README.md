@@ -14,3 +14,8 @@ API Endpoints used:
 	I created a free trial account on the Microsoft Azure website and was able to 	obtain an API Key that works for up to 1000 requests per month. 
 - Goog.io
 	- Goog.io is one of several ‘freemium’ API endpoints that allow robust and customizable google searches. I had to create an account but it has a daily limit of 100 requests per day. 
+
+
+You can register for free API keys on the Googio and Microsoft Azure websites. Once you have them they can be placed here in the app project.
+
+<img width="682" alt="Screen Shot 2021-11-30 at 1 46 56 PM" src="https://user-images.githubusercontent.com/6954210/144125922-41f0d6ce-008e-4e04-afcf-a8c10158df19.png">
