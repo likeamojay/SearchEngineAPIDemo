@@ -23,6 +23,10 @@ You can register for free API keys on the Googio and Microsoft Azure websites. O
 
 
 ![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 13 54 52](https://user-images.githubusercontent.com/6954210/144127778-12ab1595-a5c6-4dda-9ed5-340132519e39.png)
+
 ![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 13 56 33](https://user-images.githubusercontent.com/6954210/144127811-c1ea785d-4cf8-42e7-a2be-3f0ae2384c14.png)
-![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 13 56 48](https://user-images.githubusercontent.com/6954210/144127833-f098a385-24c8-4b50-b410-b07ba3![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 14 01 43](https://user-images.githubusercontent.com/6954210/144127855-e91febdd-b73d-4cb4-9c72-63ae618629da.png)
+
+![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 13 56 48](https://user-images.githubusercontent.com/6954210/144127833-f098a385-24c8-4b50-b410-b07ba3
+
+![Simulator Screen Shot - iPod touch (7th generation) - 2021-11-30 at 14 01 43](https://user-images.githubusercontent.com/6954210/144127855-e91febdd-b73d-4cb4-9c72-63ae618629da.png)
 0a5091.png)
