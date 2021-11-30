@@ -1,6 +1,6 @@
 //
 //  BingSearchResult.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Object wrapper for a search result from Bing Search API
 //  Created by James Lane on 11/20/21.
 //

@@ -13,7 +13,16 @@ public class Constants {
     public static let CELL_ID = "SearchResultTabelViewCell"
     
     // Googio API Key
-    public static let GOOGIO_API_KEY = "d59a99fd-d4a8-4539-9ec0-196f7d026f5d"
+    public static var GOOGIO_API_KEY : String {
+        
+        if let key = getKeyFromInfoPlist(key: "GOOGIO-API-KEY") {
+            return key
+        }
+        else
+        {
+            return ""
+        }
+    }
     
     // Googio is a 3rd party endpoint that provides google search functionality and allows 100 requests for free / day
     public static let GOOGIO_SEARCH_API_URL = "https://api.goog.io/v1/search/q="
@@ -28,6 +37,15 @@ public class Constants {
     public static let BING_API_SEARCH_URL = "https://api.bing.microsoft.com/v7.0/search?q=%22"
     
     // Bing API Key 1
-    public static let BING_API_KEY_1 = "efd09da494c34c8d92139333e04f2d8a"
+    public static var BING_API_KEY_1 : String {
+        
+        if let key = getKeyFromInfoPlist(key: "BING-API-KEY") {
+            return key
+        }
+        else
+        {
+            return ""
+        }
+    }
     
 }

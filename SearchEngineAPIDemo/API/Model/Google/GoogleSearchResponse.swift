@@ -1,6 +1,6 @@
 //
 //  GoogleSearchResponse.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Object model to wrap response from a google search API Call
 //  Created by James Lane on 11/19/21.
 //

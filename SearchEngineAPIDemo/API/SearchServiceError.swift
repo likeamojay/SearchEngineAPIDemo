@@ -1,6 +1,6 @@
 //
 //  SearchServiceError.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Custom Error type for handling search query requests
 //  Created by James Lane on 11/19/21.
 //

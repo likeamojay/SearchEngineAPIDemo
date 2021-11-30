@@ -1,6 +1,6 @@
 //
 //  GoogleSearchResult.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Object model to wrap an individual search result from Google
 //  Created by James Lane on 11/19/21.
 //

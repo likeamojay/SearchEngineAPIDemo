@@ -49,3 +49,24 @@ extension String {
         return plusArgs + "%22"
     }
 }
+
+public func getKeyFromInfoPlist(key: String) -> String? {
+    
+    var value : String?
+    
+    if let infoPlistPath = Bundle.main.url(forResource: "Info", withExtension: "plist") {
+        do {
+            let infoPlistData = try Data(contentsOf: infoPlistPath)
+            
+            if let dict = try PropertyListSerialization.propertyList(from: infoPlistData, options: [], format: nil) as? [String: Any] {
+                
+                value = dict[key] as? String
+            }
+        } catch {
+            print(error)
+        }
+    }
+    
+    return value
+
+}

@@ -1,6 +1,6 @@
 //
 //  SearchingService.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Manager class for handling the API calls, responses, and storing responses
 //  Created by James Lane on 11/19/21.
 //

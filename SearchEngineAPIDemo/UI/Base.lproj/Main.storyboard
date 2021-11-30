@@ -11,7 +11,7 @@
         <!--Bing-->
         <scene sceneID="Pnz-jI-KfT">
             <objects>
-                <viewController storyboardIdentifier="BingSearchViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="N8V-Oj-3gd" customClass="BingSearchViewController" customModule="MindstrongAssessment" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="BingSearchViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="N8V-Oj-3gd" customClass="BingSearchViewController" customModule="SearchEngineAPIDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="uTr-lH-xav">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -107,7 +107,7 @@
         <!--Google-->
         <scene sceneID="HqH-8y-4cx">
             <objects>
-                <viewController storyboardIdentifier="GoogleSearchViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="6pr-W6-HvS" customClass="GoogleSearchViewController" customModule="MindstrongAssessment" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="GoogleSearchViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="6pr-W6-HvS" customClass="GoogleSearchViewController" customModule="SearchEngineAPIDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Vgf-oK-EQj">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

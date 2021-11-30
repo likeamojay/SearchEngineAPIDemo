@@ -1,6 +1,6 @@
 //
 //  BingSearchResponse.swift
-//  MindstrongAssessment
+//  SearchEngineAPIDemo
 //  Object model for wrapping the result of Bing search query
 //  Created by James Lane on 11/20/21.
 //
